@@ -1,5 +1,5 @@
 <!-- Auto-generated guidance for AI coding agents. Update as you learn project specifics. -->
-# Copilot / AI Agent Instructions — Healthy Life Landing
+# Instructions — Healthy Life Landing
 
 This file contains concise, actionable information to help an AI agent be productive in this repository.
 
