@@ -1,0 +1,30 @@
+.hero {
+  background: var(--light-green);
+  text-align: center;
+  padding: 80px 20px;
+}
+
+.hero h2 {
+  font-size: 2.5rem;
+}
+
+.hero p {
+  max-width: 600px;
+  margin: 20px auto;
+  font-size: 1.2rem;
+}
+
+.hero button {
+  margin-top: 20px;
+  background: var(--green);
+  color: white;
+  border: none;
+  padding: 12px 25px;
+  border-radius: 6px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.hero button:hover {
+  background: #236326;
+}

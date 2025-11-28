@@ -1,0 +1,25 @@
+.testi-container {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  flex-wrap: wrap;
+  margin-top: 40px;
+}
+
+.testi-card {
+  background: white;
+  padding: 20px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  max-width: 300px;
+}
+
+.testi-card .text {
+  font-style: italic;
+}
+
+.testi-card .author {
+  margin-top: 10px;
+  font-weight: bold;
+  color: var(--green);
+}
