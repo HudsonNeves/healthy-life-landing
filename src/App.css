@@ -1,0 +1,14 @@
+section {
+  padding: 60px 20px;
+}
+
+h2, h3 {
+  color: var(--green);
+  font-weight: bold;
+  text-align: center;
+}
+
+.container {
+  max-width: 900px;
+  margin: auto;
+}
